@@ -1,5 +1,25 @@
 <!--- HEADER SECTION WITH ANIMATED BACKGROUND -->
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Adeeyo+Abdulrahman+Opemipo;Software+Developer;Systems+Thinker;Builder;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Student-FUTA%20Akure-2E9AFE?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Founding%20Member-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entrepreneur-Founder-4ECDC4?style=for-the-badge&logo=business&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Abdulboy&fontSize=90&fontAlignY=40&desc=Software%20Developer%20%7C%20Systems%20Thinker%20%7C%20Builder&descAlignY=60&animation=fadeIn" width="100%" />
 </div>
 
