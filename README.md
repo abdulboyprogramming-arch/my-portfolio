@@ -55,7 +55,7 @@ A browser-based desktop environment simulation exploring modern web capabilities
 
 ---
 
-### Full-Stack Experimental Applications
+### Full-Stack Applications
 ![Status](https://img.shields.io/badge/status-active-yellowgreen)
 
 A series of full-stack systems designed to practice backend APIs, authentication systems, database integrations, and modern UI interactions.
