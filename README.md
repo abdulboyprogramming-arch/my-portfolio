@@ -1,153 +1,260 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hi, I'm Adeeyo Abdulrahman Opemipo (Abdulboy)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=2E9AFE&center=false&vCenter=true&width=600&lines=Software+Developer;Systems+Thinker;Builder;Problem+Solver)](https://git.io/typing-svg)
-
-🎓 **Student** at Federal University of Technology Akure (FUTA)  
-🏛 **Founding Member** – FUTA Programmers Club  
-🏢 **Founder** – Abdulboy Programming Enterprise  
-
-I'm a passionate developer focused on building **scalable software systems**, **intelligent applications**, and **experimental computing platforms**.  
-I enjoy exploring how system architecture, automation, and AI-assisted development can push the boundaries of modern software engineering.
-
----
-
-## 🔭 Current Focus
-
-<table>
-  <tr>
-    <td>🚀 Full-Stack Application Development</td>
-    <td>🤖 AI-Powered Software Systems</td>
-  </tr>
-  <tr>
-    <td>🌐 Scalable Web Infrastructure</td>
-    <td>🛠 Developer Tools & System Architecture</td>
-  </tr>
-  <tr>
-    <td colspan="2">💻 Experimental Platforms (Web-Based OS)</td>
-  </tr>
-</table>
-
----
-
-## 🧠 Tech Stack
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠 Tools & Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Key Projects
-
-### <img src="https://img.shields.io/badge/status-active%20development-blue" alt="Status" style="display: inline-block; vertical-align: middle;"> Luminix – Web-Based Operating System
-
-> A browser-based desktop environment simulation exploring modern web capabilities.
-
-**🎯 Currently Working On:**
-- 🖥️ Application Launcher System
-- 🪟 Window Management Core
-
-**✅ Key Features Implemented:**
-- 📁 Basic File System Structure
-- ↔️ Window Dragging & Resizing
-
-*✨ More features planned based on learning journey*
-
----
-
-### <img src="https://img.shields.io/badge/status-active-yellowgreen" alt="Status" style="display: inline-block; vertical-align: middle;"> Full-Stack Experimental Applications
-
-> A series of full-stack systems designed to practice backend APIs, authentication systems, database integrations, and modern UI interactions.
-
-**📦 Recent Updates:**
-- ✅ JWT Authentication Implemented
-- 🔄 Database Optimization (Ongoing)
-- ⏳ Docker Containerization
-
----
-
-## 📚 Currently Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,cloudflare,ai,aws" />
-</p>
-
-- Advanced TypeScript
-- Cloud Computing & Infrastructure
-- Artificial Intelligence Systems
-- Scalable System Architecture
-
----
-
-## 📈 GitHub Analytics
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulboyprogramming-arch&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulboyprogramming-arch&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Adeeyo+Abdulrahman+Opemipo;Software+Developer;Systems+Thinker;Builder;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulboyprogramming-arch&theme=radical"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Student-FUTA%20Akure-2E9AFE?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Founding%20Member-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entrepreneur-Founder-4ECDC4?style=for-the-badge&logo=business&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulboyprogramming-arch&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/abdulboyprogramming-arch?label=FOLLOWERS&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/abdulboyprogramming-arch?label=STARS&style=for-the-badge&color=ffb86b" />
+</div>
+
+<br/>
+
+---
+
+## 🎯 **About Me**
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdulboyprogramming-arch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9AFE&icon_color=4ECDC4" />
+      </td>
+      <td valign="top" width="50%">
+        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulboyprogramming-arch&theme=radical&hide_border=true&background=0D1117&stroke=2E9AFE&ring=2E9AFE&fire=4ECDC4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2E9AFE&sideLabels=2E9AFE&dates=FFFFFF" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulboyprogramming-arch&theme=radical" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔭 **Current Focus**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulboyprogramming-arch&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🔄-Full--Stack%20Development-2E9AFE?style=flat-square" />
+        <br/>
+        <sub>React • Node.js • Express</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🤖-AI%20Powered%20Systems-FF6B6B?style=flat-square" />
+        <br/>
+        <sub>Machine Learning • Automation</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🌐-Scalable%20Infrastructure-4ECDC4?style=flat-square" />
+        <br/>
+        <sub>Cloud • Microservices • DevOps</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🛠-Developer%20Tools-FFB86B?style=flat-square" />
+        <br/>
+        <sub>CLI Tools • Automation Scripts</sub>
+      </td>
+      <td align="center" colspan="2">
+        <img src="https://img.shields.io/badge/💻-Web%20Based%20OS-FF6B6B?style=flat-square" />
+        <br/>
+        <sub>Browser Desktop Environment</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🧠 **Tech Stack**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+  ### **Programming Languages**
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp&theme=dark&perline=4" />
+  
+  ### **Frontend Development**
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=4" />
+  
+  ### **Backend Development**
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark&perline=3" />
+  
+  ### **Databases**
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark&perline=4" />
+  
+  ### **DevOps & Tools**
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,vscode,linux&theme=dark&perline=7" />
+  
 </div>
 
 ---
 
-## 🌍 Connect With Me
+## 🚀 **Featured Projects**
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🖥️ Luminix – Web-Based OS</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/STATUS-Active%20Development-2E9AFE?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/STACK-React%20%7C%20TypeScript-4ECDC4?style=for-the-badge" />
+        </div>
+        <br/>
+        <div align="center">
+          <img src="https://via.placeholder.com/400x200/0D1117/2E9AFE?text=Luminix+OS+Preview" width="90%" />
+        </div>
+        <br/>
+        <p align="center">
+          A browser-based desktop environment simulation exploring modern web capabilities.
+        </p>
+        <div align="center">
+          <b>Currently Building:</b> Application Launcher • Window Management
+        </div>
+        <div align="center">
+          ✅ File System Structure • Window Dragging & Resizing
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">⚡ Full-Stack Experimental Apps</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/STATUS-Active-4ECDC4?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/STACK-MERN%20%7C%20JWT-2E9AFE?style=for-the-badge" />
+        </div>
+        <br/>
+        <div align="center">
+          <img src="https://via.placeholder.com/400x200/0D1117/4ECDC4?text=Full-Stack+Showcase" width="90%" />
+        </div>
+        <br/>
+        <p align="center">
+          A series of systems practicing backend APIs, authentication, and modern UI interactions.
+        </p>
+        <div align="center">
+          ✅ JWT Auth • 🔄 DB Optimization • ⏳ Docker Containerization
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📚 **Learning Journey**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/TypeScript-Advanced-2E9AFE?style=flat-square&logo=typescript" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Cloud%20Infrastructure-AWS%20%7C%20Azure-FF6B6B?style=flat-square&logo=amazonaws" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/AI%20Systems-ML%20%7C%20LLMs-4ECDC4?style=flat-square&logo=tensorflow" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/System%20Architecture-Scalable%20Designs-FFB86B?style=flat-square&logo=architecture" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 **Activity Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulboyprogramming-arch&theme=react-dark&bg_color=0D1117&color=2E9AFE&line=4ECDC4&point=FF6B6B&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🏆 **Achievements & Stats**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulboyprogramming-arch&theme=radical&no-frame=true&row=1&column=7&margin-w=15" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulboyprogramming-arch&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulboyprogramming-arch&theme=radical" />
+</div>
+
+---
+
+## 🐍 **Contribution Snake**
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🌍 **Connect With Me**
 
 <div align="center">
   <a href="https://linkedin.com/in/abdulrahman-adeeyo">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
   <a href="https://github.com/abdulboyprogramming-arch">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
   </a>
 </div>
 
 ---
 
-## 💭 Philosophy
+## 💭 **Philosophy**
 
-> "The future belongs to developers who understand systems deeply and build solutions that scale."
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20future%20belongs%20to%20developers%20who%20understand%20systems%20deeply%20and%20build%20solutions%20that%20scale.&author=Adeeyo%20Abdulrahman" />
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulboyprogramming-arch&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  <i>⭐️ Feel free to star repositories you find interesting!</i>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💖-Thanks%20for%20visiting-2E9AFE?style=for-the-badge" />
+  <br/>
+  <sub>⭐️ Star repositories you find interesting! ⭐️</sub>
 </div>
