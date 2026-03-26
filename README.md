@@ -141,34 +141,6 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🖥️ Luminix – Web OS</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-FF6B6B?style=flat-square" />
-          <img src="https://img.shields.io/badge/PROGRESS-40%25-4ECDC4?style=flat-square" />
-        </div>
-        <br/>
-        <div align="center">
-          <img src="https://via.placeholder.com/500x250/0D1117/2E9AFE?text=🚀+Luminix+Web+OS+Preview" width="90%" />
-        </div>
-        <br/>
-        <div align="center">
-          <b>📦 FEATURE ROADMAP</b>
-          <ul align="left">
-            <li>✅ File System Structure</li>
-            <li>✅ Window Dragging & Resizing</li>
-            <li>🔄 Application Launcher (In Progress)</li>
-            <li>⏳ Taskbar & System Tray</li>
-            <li>⏳ Settings Manager</li>
-            <li>⏳ File Explorer</li>
-          </ul>
-        </div>
-        <div align="center">
-          <progress value="40" max="100" style="width: 80%; height: 15px;"></progress>
-          <br/>
-          <sub>Overall Progress: 40%</sub>
-        </div>
-       </td>
-      <td width="50%" valign="top">
         <h3 align="center">⚡ Full-Stack Lab</h3>
         <div align="center">
           <img src="https://img.shields.io/badge/STATUS-LEARNING_PLATFORM-2E9AFE?style=flat-square" />
