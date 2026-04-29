@@ -186,6 +186,12 @@
 </details>
 
 ---
+## ⭐ **Github Badges**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia" />
+</div>
+
+---
 
 ## 🌍 **CONNECT WITH ME**
 
