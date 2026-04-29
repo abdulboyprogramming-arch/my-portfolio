@@ -1,4 +1,4 @@
-name: Generate GitHub Snake
+name: Generate Snake
 
 on:
   schedule:
@@ -10,21 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
       
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: abdulboyprogramming-arch
           outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v3
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+      
+      - uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
-          publish_branch: output
-          keep_files: false
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
